@@ -1,4 +1,9 @@
-### Hi there 👋
+### Howdy 👋
+
+- 🏫 I graduated from UCSC in 2020 with a BS in CS
+- 🔭 I’m a private instructor with [iDTech](https://www.linkedin.com/company/id-tech-camps/)
+- 🌱 I’m currently learning C++ and Kotlin
+- 💬 Email me with questions about my projects -> atscott@ucsc.edu
 
 <!--
 **alexthescott/alexthescott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
