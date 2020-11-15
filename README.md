@@ -2,7 +2,7 @@
 
 - 🏫 I graduated from UCSC in 2020 with a BS in CS
 - 🔭 I’m a private instructor with [iDTech](https://www.linkedin.com/company/id-tech-camps/)
-- 🌱 I’m currently learning C++ and Kotlin
+- 🃏 Currently, I am working on implementing my favorite card game, [Durak](https://github.com/alexthescott/Durak-Python) using Pygame
 - 💬 Email me with questions about my projects -> atscott@ucsc.edu
 
 <!--
@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C++ and Kotlin ..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
