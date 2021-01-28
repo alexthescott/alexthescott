@@ -1,9 +1,10 @@
-### Howdy 👋
+### Howdy, my name is Alex 👋
+- 🔭  I’m currently a private instructor with [iDTech](https://www.linkedin.com/company/id-tech-camps/)
+- 🎨  Click the gifs below to see my P5.js sketches 
 
-- 🏫 I graduated from UCSC in 2020 with a BS in CS
-- 🔭 I’m a private instructor with [iDTech](https://www.linkedin.com/company/id-tech-camps/)
-- 🃏 Currently, I am working on implementing my favorite card game, [Durak](https://github.com/alexthescott/Durak-Python) using Pygame
-- 💬 Email me with questions about my projects -> atscott@ucsc.edu
+[<img width="50" src="https://github.com/alexthescott/p5.js-sketches/blob/main/fishes/gifs/fishes_gif_thumb.gif.gif">](https://github.com/alexthescott/p5.js-sketches/tree/main/fishes)
+[<img width="50" src="https://github.com/alexthescott/p5.js-sketches/blob/main/everything_becomes_nothing/gifs/ebn_gif_thumb.gif">](https://github.com/alexthescott/p5.js-sketches/tree/main/everything_becomes_nothing)
+[<img width="50" src="https://github.com/alexthescott/p5.js-sketches/blob/main/bounce_path/gifs/bg_gif_thumb.gif">](https://github.com/alexthescott/p5.js-sketches/tree/main/bounce_path)
 
 <!--
 **alexthescott/alexthescott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
