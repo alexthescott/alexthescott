@@ -2,6 +2,7 @@
 - 🔭  I’m currently a private instructor with [iDTech](https://www.linkedin.com/company/id-tech-camps/)
 - 🎨  Click the gifs below to see my sketches 
 
+[<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/worm_noise/gifs/worm_noise_gif_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/worm_noise)
 [<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/tiny_noise/gifs/tiny_noise_gif_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/tiny_noise)
 [<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/random_walk/gifs/mm_rw_gif_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/random_walk)
 [<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/germ_grid/gifs/gg_gif_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/germ_grid)
