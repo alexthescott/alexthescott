@@ -1,5 +1,4 @@
-### Howdy, my name is Alex 👋
-- 🔭  I’m currently a private instructor with [iDTech](https://www.linkedin.com/company/id-tech-camps/)
+### 👋 Howdy, my name is Alex
 - 🎨  Click the gifs below to see my sketches 
 
 [<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/concentric_shuffle/gifs/cs_gif_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/concentric_shuffle)
