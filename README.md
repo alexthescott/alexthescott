@@ -1,6 +1,7 @@
 ### 👋 Howdy, my name is Alex
 - 🎨  Click the gifs below to see my sketches 
 
+[<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/boxes_front_matt/gifs/bfm_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/boxes_front_matt)
 [<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/circle_rain_sin/gifs/circle_rain_sin_gif_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/circle_rain_sin)
 [<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/concentric_shuffle/gifs/cs_gif_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/concentric_shuffle)
 [<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/worm_noise/gifs/worm_noise_gif_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/worm_noise)
