@@ -13,6 +13,8 @@
 [<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/everything_becomes_nothing/gifs/ebn_gif_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/everything_becomes_nothing)
 [<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/bounce_path/gifs/bg_gif_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/bounce_path)
 
+![](https://komarev.com/ghpvc/?username=alexthescott&color=21AFD4&style=flat)
+
 <!--
 **alexthescott/alexthescott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
