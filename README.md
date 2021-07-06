@@ -1,6 +1,7 @@
 ### 👋 Howdy, my name is Alex
 - 🎨  Click the gifs below to see my sketches 
 
+[<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/rain_orbit/gifs/rain_orbit_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/rain_orbit)
 [<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/grayscale_triangles/gifs/gs_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/grayscale_triangles)
 [<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/carpet_noise/gifs/cn_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/carpet_noise)
 [<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/boxes_front_matt/gifs/bfm_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/boxes_front_matt)
@@ -15,18 +16,3 @@
 [<img width="50" src="https://github.com/alexthescott/graphic_sketches/blob/main/bounce_path/gifs/bg_gif_thumb.gif">](https://github.com/alexthescott/graphic_sketches/tree/main/bounce_path)
 
 ![](https://komarev.com/ghpvc/?username=alexthescott&color=21AFD4&style=flat)
-
-<!--
-**alexthescott/alexthescott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C++ and Kotlin ..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
